@@ -1,3 +1,4 @@
+(function(that){((context, fapply, console) => {with (context) {(module => {"use strict";try {fapply(module, context, [,,context.CDATA,context.uneval,context.define,context.module,context.exports,context,context,context.unsafeWindow,context.console,context.cloneInto,context.exportFunction,context.createObjectIn,context.GM,context.GM_info,context.GM_setValue,context.GM_getValue]);} catch (e) {if (e.message && e.stack) {console.error("ERROR: Execution of script 'ssuMain' failed! " + e.message);console.log(e.stack.replace(/(\\(eval at )?<anonymous>[: ]?)|([\s.]*at Object.tms_[\s\S.]*)/g, ""));} else {console.error(e);}}})(async function tms_83f3ca25_353f_4aee_bca7_48c9f87827a8(context,fapply,CDATA,uneval,define,module,exports,window,globalThis,unsafeWindow,console,cloneInto,exportFunction,createObjectIn,GM,GM_info,GM_setValue,GM_getValue) {
 // ==UserScript==
 // @name         ssuclass
 // @namespace    http://tampermonkey.net/
