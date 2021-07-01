@@ -42,3 +42,6 @@
     $('.dimmed_text > img.activityicon').attr("src","https://github.com/rlarlgnszx/SSUCustom/blob/main/icon%202.png?raw=true");
     });
 })();
+})}})(that.context, that.fapply, that.console);
+//# sourceURL=chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/userscript.html?name=ssuMain.user.js&id=83f3ca25-353f-4aee-bca7-48c9f87827a8
+})((()=>{const k="__u__16707085.297607454",r=this[k];delete this[k];return r;})())
